@@ -4,6 +4,7 @@ body, html {
     font-family: Arial, sans-serif;
     background-color: #121212;
     color: #ffffff;
+    scroll-behavior: smooth;
     /* display: flex;
     justify-content: center;
     align-items: center;  */
@@ -111,7 +112,7 @@ nav ul li a {
     background-color: #e03a4e;
 }
 
-.languages {
+.parts {
     padding: 20px 0;
     text-align: center;
 }
